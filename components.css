@@ -1,0 +1,18 @@
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav a {
+  margin-left: 15px;
+}
+
+.nav .active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
